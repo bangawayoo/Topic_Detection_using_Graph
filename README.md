@@ -1,4 +1,4 @@
-# Topic Detection using Graph (19.01.02~)
+# Topic Detection using Graph 
 ### __To be updated:__
 #### Will include crawler, preprocessing tools, graph file writer, and sample data  
      
